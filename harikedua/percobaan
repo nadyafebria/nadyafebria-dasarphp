@@ -1,0 +1,18 @@
+<?php
+
+$luas=?: //deklarasi dan inisialisasi variabel
+const phi=3.14 //deklarasi dan inisialisasi konstanta
+echo $luas;
+echo "<br>";
+echo phi;
+echo "<br>"
+
+$LuasPersegiPanjang=67;
+$KelilingLingkaran=93.5;
+$nama="NadyaFebriasari";
+$hidup=True;
+
+var dump($LuasPersegiPanjang);
+var dump($KelilingLikaran);
+var dump($nama);
+var dump($hidup);
